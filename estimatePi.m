@@ -1,5 +1,4 @@
-% This is a local function that calculates the estimated Pi & creates a
-% visualization
+% This is a function that calculates the estimated Pi & creates a visualization
 function estimated_pi = estimatePi(precision_level)
     % Function to estimate the value of Pi using a desired level of precision
     % Validate the input
