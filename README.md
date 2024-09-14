@@ -1,7 +1,7 @@
 # AMS595-Project1
 
 ## README: Monte Carlo Simulation for Estimating π
-Overview
+Overview: 
 This repository contains MATLAB code for estimating the value of π using a Monte Carlo simulation. The code is divided into three parts, demonstrating the use of different flow control mechanisms and visualizations.
 
 ## Part 1: Estimating π with a For Loop
